@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 .info>p{
     margin: 0;
     width: 600px;
@@ -62,7 +67,8 @@ font-size: 24px;
 .ul_skill {
     font-size: 18px;
     font-family: 'Times New Roman', Times, serif;
-    margin: 10px 0px;
+    margin-left: 30px;
+    margin-top: -250px;
 }
 
 .experience{
@@ -77,9 +83,11 @@ font-size: 20px;
 .p_experience {
     text-align: center;
     font-size: 18px;
+    margin-top: -90px;
 }
 
 .education{
+    margin-top: 15px;
     height: 15%;
 }
 
@@ -91,14 +99,17 @@ font-size: 20px;
 .uni {
     margin-left: 15px;
     font-size: 18px;
+    margin-top: -100px;
 }
 
 .seo {
+    margin-top: 10px;
     margin-left: 15px;
     font-size: 18px;
 }
 
 .english {
+    margin-top: 10px;
     text-align: center;
     font-size: 18px;
 }
